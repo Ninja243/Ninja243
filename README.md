@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Mweya! 👋
+
+[![:)](https://github-readme-stats.vercel.app/api?username=Ninja243&count_private=true&show_icons=true&theme=synthwave)](https://github.com/Ninja243/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja243&count_private=true&show_icons=true&langs_count=10&theme=synthwave)](https://github.com/Ninja243/github-readme-stats)
 
 <!--
 **Ninja243/Ninja243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
